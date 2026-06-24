@@ -1,4 +1,4 @@
-# Student-Mini-Project-Portal
+
 # Student-Mini-Project-Management-Portal
 
 
